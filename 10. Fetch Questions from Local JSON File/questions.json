@@ -1,0 +1,73 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript??",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "<script href='xxx.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    
+    "question" : "If <strong> \\[\\begin{bmatrix} 1 & 2 & 3\\\\ 4 & 5 & 6\\\\ 7 & 8 & 9 \\end{bmatrix}\\]</strong>   and sq. root 12 are two sides of a triangle and 45 is the angle of biggest side. Find the smallest side?", 
+    "choice1" : "Sq. root 6 + sq. root2", 
+    "choice2" : "Sq. root 6 + sq. root3", 
+    "choice3" : "Sq. root 6 – sq. root 2", 
+    "choice4" : "None", 
+    "answer" : "1", 
+    "solution" : "none"
+  }, 
+  {
+      "question" : "If <strong> \\[\\begin{bmatrix} 1 & 2 & 3\\\\ 4 & 5 & 6\\\\ 7 & 8 & 9 \\end{bmatrix}\\]</strong> where x is in 1st quadrant, find the values of tan(2x) ", 
+      "choice1" : "1", 
+      "choice2" : "-1", 
+      "choice3" : "-1.732.c", 
+      "choice4" : "-1.732", 
+      "answer" : "2", 
+      "solution" : "none"
+  }, 
+  {
+      "question" : "The <strong> \\[\\begin{bmatrix} 1 & 2 & 3\\\\ 4 & 5 & 6\\\\ 7 & 8 & 9 \\end{bmatrix}\\]</strong> sin 13 cos 77 + cos 13 sin 77 =?", 
+      "choice1" : "0", 
+      "choice2" : "1.c", 
+      "choice3" : "cos 26", 
+      "choice4" : "sin 26", 
+      "answer" : "3", 
+      "solution" : "none"
+  }, 
+  {
+      "question" : "The <strong> \\[\\begin{bmatrix} 1 & 2 & 3\\\\ 4 & 5 & 6\\\\ 7 & 8 & 9 \\end{bmatrix}\\]</strong> of α and β for [β^3 + (ax)^3 ] / (1-x ) = 3 is true", 
+      "choice1" : "α=1 , β=1", 
+      "choice2" : "α= -1, β=1α=1", 
+      "choice3" : "α= 1 , β= -1 ", 
+      "choice4" : "α= -1 , β= -1", 
+      "answer" : "4", 
+      "solution" : "none"
+  }, 
+  {
+      "question" : "What <strong> \\[\\begin{bmatrix} 1 & 2 & 3\\\\ 4 & 5 & 6\\\\ 7 & 8 & 9 \\end{bmatrix}\\]</strong> sine inverse of sin(pi/2)?", 
+      "choice1" : "1", 
+      "choice2" : "pi/2 radians", 
+      "choice3" : "90 degrees", 
+      "choice4" : "Both B and C (Correct)", 
+      "answer" : "1", 
+      "solution" : "none"
+  }
+]
+
